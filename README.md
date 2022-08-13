@@ -12,9 +12,8 @@ I'm currently studying at AltSchool Africa [School of Software Engineering](http
 - 🌱 I’m currently learning Cloud Computing, Reactjs, and Python (Django).
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, BackEnd Dev, or UI/UX (Intern or Junior level).
-- 📫 You can [view my resume](https://bit.ly/hexpeeResume) and contact me by emailing omoyaniger1@gmail.com.
-
+- 📫 You can [view my resume](https://bit.ly/hexpeeResume) and contact me by emailing [Hexpee](omoyaniger1@gmail.com)
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexpeei&show_icons=true&include_all_commits=true&hide_border=true" alt="Ibrahim's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexpee&langs_count=8&layout=compact&hide_border=true" alt="Hexpee's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexpee&show_icons=true&include_all_commits=true&hide_border=true" alt="Ibrahim's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexpee&langs_count=8&layout=compact&hide_border=true" alt="Hexpee's GitHub stats" /> |
 | ------------- | ------------- |
