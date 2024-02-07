@@ -9,8 +9,7 @@ AM Web Developer (BackEnd), Cloud enthusiastic, Code learner, Python lover, I al
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying Cloud Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. Also Computer Science at [IBBU](https://www.ibbu.edu.ng)
 - 🌱 I’m currently learning Cloud Computing, Reactjs, and Python (Django).
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, BackEnd Dev, or UI/UX (Intern or Junior level).
+- 💼 Job interests: Software Engineer, BackEnd Dev, or UI/UX.
 - 📫 You can [view my resume](https://bit.ly/hexpeeResume) and contact me by emailing [Hexpee](mailto:omoyaniger1@gmail.com)
 ---
 
